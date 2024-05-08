@@ -1,4 +1,4 @@
-n=input("enter the string in mixed form upper and lower")
+n=input("enter the string in mixed form upper and lower")#program to convert string into particular text
 user=input(f"enter your choice:  \n  all capital : cap \n all samall : s \n in form of title : t \n ")
 if user == "cap".lower():
     print(n.upper())
